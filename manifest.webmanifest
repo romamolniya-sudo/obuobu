@@ -1,0 +1,17 @@
+{
+  "name": "Полчаса в день",
+  "short_name": "Полчаса",
+  "description": "Курс общего развития на 91 день по 30 минут",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F2EC",
+  "theme_color": "#F2F2EC",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
